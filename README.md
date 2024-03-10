@@ -1,6 +1,5 @@
 
- <p text-align = "center"><h1>CognoRise Infotech</h1> </p>
-
+ <h1 style="text-align:center;">CognoRise Infotech</h1>
 
 ## Project 1: Crimes In Chicago
 
