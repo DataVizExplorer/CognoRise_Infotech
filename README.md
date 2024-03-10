@@ -1,6 +1,9 @@
 <p align = "center" width="100%">
-    # CognoRise Infotech
+
+ # CognoRise Infotech
+
 </p>
+
 ## Project 1: Crimes In Chicago
 
 ### Dashboard link: 
