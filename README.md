@@ -7,7 +7,7 @@
 https://public.tableau.com/views/Chicago_crime_dashborad/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Chicago_crime_dashboard.jpg" width="1000" height="500" />
+<img src="images/Chicago_crime_dashboard.jpg" width="900" height="500" />
 </p>
 
 
