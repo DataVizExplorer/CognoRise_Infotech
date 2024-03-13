@@ -7,7 +7,7 @@
 https://public.tableau.com/views/Chicago_crime_dashborad/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Chicago_crime_dashboard.jpg" width="900" height="500" />
+<img src="images/Chicago_crime_dashboard.jpg" width="1000" height="500" />
 </p>
 
 
@@ -31,3 +31,7 @@ https://public.tableau.com/views/Annual_crime_count/AnnualCrimeCount?:language=e
 <p align = "center" width="100%">
 <img src="images/Annual_Crime_count.jpg" width="850" height="450" />
 </p>
+
+
+### Project 2:
+crimesssssssss
