@@ -4,7 +4,7 @@
 ## Project 1: Crimes In Chicago
 
 The objective of this project is to conduct a comprehensive analysis of crime incidents and their respective types within the city of Chicago.I have utilized the dataset available at https://www.kaggle.com/datasets/currie32/crimes-in-chicago, which was provided by the Chicago Police Department.
-The dataset comprises over 6,000,000 records/rows of data, exceeding the viewing capacity of Microsoft Excel.The dataset is segmented into four CSV files.Before working in Tableau, I created a single CSV file on Kaggle, using the fields of interest for exploration.
+The dataset comprises over 6,000,000 records/rows of data, exceeding the viewing capacity of Microsoft Excel.The dataset is segmented into four CSV files.Before working in Tableau, I created a single CSV file on Kaggle, using the fields of interest for exploration. The Kaggle notebook is provided in the repository for reference.
 The variables I utilized are as follows:
 - Arrest - Specifies whether an arrest was made.
 - Primary Type - Description od IUCR code, which standes for which stands for the Illinois Uniform Crime Reporting code.See the list  of IUCR codes at https://data.cityofchicago.org/d/c7ck-438e.
