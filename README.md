@@ -8,8 +8,8 @@ The dataset comprises over 6,000,000 records/rows of data, exceeding the viewing
 The variables I utilized are as follows:
 - Arrest 
 - Primary Type
-- Date
-- Domestic
+- Date - When the incident happened.
+- Domestic - Specifies whether the incident can be classified as domestic-related according to the Domestic Violence Act.
 - Description
 - Latitude
 - Longitude
