@@ -3,6 +3,8 @@
 
 ## Project 1: Crimes In Chicago
 
+The objective of this project is to conduct a comprehensive analysis of crime incidents and their respective types within the city of Chicago.I have utilized the dataset available at https://www.kaggle.com/datasets/currie32/crimes-in-chicago, which was provided by the Chicago Police Department.
+
 ### Dashboard link: 
 https://public.tableau.com/views/Chicago_crime_dashborad/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
