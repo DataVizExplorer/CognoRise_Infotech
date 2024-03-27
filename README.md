@@ -60,3 +60,8 @@ https://public.tableau.com/views/AverageSalaryPerJobTitle/AverageSalaryPerJobTit
 <p align = "center" width="100%">
 <img src="images/Average_salary_by_job_title.jpg" width="850" height="450" />
 </p>
+
+<p align = "center" width="100%">
+<img src="images/Average_salary_by_job_title_feilds_merged_together.jpg" width="850" height="450" />
+</p>
+
