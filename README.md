@@ -45,5 +45,8 @@ https://public.tableau.com/views/Annual_crime_count/AnnualCrimeCount?:language=e
 </p>
 
 
-### Project 2:
-crimesssssssss
+### Project 2: Employees Salary Analysis- EDA
+
+### Dashboard Link:
+https://public.tableau.com/shared/4QWBP45MX?:display_count=n&:origin=viz_share_link
+
