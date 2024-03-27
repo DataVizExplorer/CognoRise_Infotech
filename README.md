@@ -72,3 +72,9 @@ https://public.tableau.com/views/AverageSalaryPerJobTitle_top_10/AverageSalaryPe
 <p align = "center" width="100%">
 <img src="images/Average_salary_by_job_title_top10.jpg" width="850" height="450" />
 </p>
+
+https://public.tableau.com/views/AverageSalaryASPerCompanySize/AverageSalaryAsPerCompanySize?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+<p align = "center" width="100%">
+<img src="images/Average_salary_as_per_company_size.jpg" width="850" height="450" />
+</p>
