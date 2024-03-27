@@ -61,7 +61,14 @@ https://public.tableau.com/views/AverageSalaryPerJobTitle/AverageSalaryPerJobTit
 <img src="images/Average_salary_by_job_title.jpg" width="850" height="450" />
 </p>
 
+https://public.tableau.com/views/AverageSalaryPerJobTitle_feilds_merged/AverageSalaryAsPerJobTitle?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 <p align = "center" width="100%">
 <img src="images/Average_salary_by_job_title_feilds_merged_together.jpg" width="850" height="450" />
 </p>
 
+https://public.tableau.com/views/AverageSalaryPerJobTitle_top_10/AverageSalaryPerJobTitle?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+<p align = "center" width="100%">
+<img src="images/Average_salary_by_job_title_top10.jpg" width="850" height="450" />
+</p>
