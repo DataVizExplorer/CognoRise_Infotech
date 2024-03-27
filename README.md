@@ -58,5 +58,5 @@ https://public.tableau.com/shared/8N4X325XF?:display_count=n&:origin=viz_share_l
 https://public.tableau.com/views/AverageSalaryPerJobTitle/AverageSalaryPerJobTitle?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Annual_Crime_count.jpg" width="850" height="450" />
+<img src="images/Average_salary_by_job_title.jpg" width="850" height="450" />
 </p>
