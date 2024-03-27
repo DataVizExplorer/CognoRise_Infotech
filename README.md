@@ -51,7 +51,7 @@ https://public.tableau.com/views/Annual_crime_count/AnnualCrimeCount?:language=e
 https://public.tableau.com/shared/8N4X325XF?:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Employees_Salary_Dashboard.jpg" width="1200" height="500" />
+<img src="images/Employees_Salary_Dashboard.jpg" width="1250" height="500" />
 </p>
 
 
