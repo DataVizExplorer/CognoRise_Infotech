@@ -88,3 +88,11 @@ https://public.tableau.com/views/AverageSalaryAcrossDifferentExperinceLevel/Aver
 <p align = "center" width="100%">
 <img src="images/Average_salary_across_different_experience_level.jpg" width="850" height="450" />
 </p>
+
+### Average Salary As Per Employment Type
+
+https://public.tableau.com/views/AverageSalaryAsPerEmploymentType/AverageSalaryAsPerEmploymentType?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+<p align = "center" width="100%">
+<img src="images/Average_Salary_As_Per_Employment_Type.jpg" width="850" height="450" />
+</p>
