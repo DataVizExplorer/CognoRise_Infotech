@@ -73,8 +73,18 @@ https://public.tableau.com/views/AverageSalaryPerJobTitle_top_10/AverageSalaryPe
 <img src="images/Average_salary_by_job_title_top10.jpg" width="850" height="450" />
 </p>
 
+### Average Salary As Per Company Size
+
 https://public.tableau.com/views/AverageSalaryASPerCompanySize/AverageSalaryAsPerCompanySize?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
 <img src="images/Average_salary_as_per_company_size.jpg" width="850" height="450" />
+</p>
+
+### Average Salary Across Different Experience Level
+
+https://public.tableau.com/views/AverageSalaryAcrossDifferentExperinceLevel/AverageSalaryAcrossDifferentExperienceLevel?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+<p align = "center" width="100%">
+<img src="images/Average_salary_across_different_experience_level.jpg" width="850" height="450" />
 </p>
