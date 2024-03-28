@@ -102,5 +102,5 @@ https://public.tableau.com/views/AverageSalaryAsPerEmploymentType/AverageSalaryA
 https://public.tableau.com/views/Percentage_Of_Employment_Contract_By_Type/PercentageOfEmploymentContractByType?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Percentage_Of_Employment_Contract_By_Type.jpg" width="850" height="450" />
+<img src="images/Percentage_Of_Employment_Contract_By_Type.jpg" width="450" height="450" />
 </p>
