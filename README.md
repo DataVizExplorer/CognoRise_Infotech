@@ -110,5 +110,5 @@ https://public.tableau.com/views/Percentage_Of_Employment_Contract_By_Type/Perce
 https://public.tableau.com/views/Trendofaveragesalary/TrendOfAverageSalary?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Average_Salary_Trend.jpg" width="900" height="400" />
+<img src="images/Average_Salary_Trend.jpg" width="950" height="400" />
 </p>
