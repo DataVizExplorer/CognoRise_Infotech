@@ -112,3 +112,8 @@ https://public.tableau.com/views/Trendofaveragesalary/TrendOfAverageSalary?:lang
 <p align = "center" width="100%">
 <img src="images/Average_Salary_Trend.jpg" width="950" height="450" />
 </p>
+
+### Project 3: Customer Churn Analysis- EDA
+
+https://public.tableau.com/views/customer_churn_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
