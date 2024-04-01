@@ -118,5 +118,5 @@ https://public.tableau.com/views/Trendofaveragesalary/TrendOfAverageSalary?:lang
 https://public.tableau.com/views/customer_churn_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
-<img src="images/Customer_churn.jpg" width="950" height="500" />
+<img src="images/Customer_churn.jpg" width="950" height="550" />
 </p>
