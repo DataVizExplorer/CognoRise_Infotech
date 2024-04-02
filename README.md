@@ -47,7 +47,7 @@ https://public.tableau.com/views/Annual_crime_count/AnnualCrimeCount?:language=e
 
 ### Project 2: Employees Salary Analysis- EDA
 
-The objective of this project is to Exploratory Data Analysis of employees salaries for different job roles. I have used the data set available at https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles. This data set contains information of following fields:
+The objective of this project is to conduct Exploratory Data Analysis of employees salaries for different job roles. I have used the data set available at https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles. This data set contains information of following fields:
 - work_year: The year of employment.
 - Experience_level: The experience level of the employee (Experienced, Senior, Mid Level, Entry Level)
 - Employment_type: The type of employment (Full-time, Part-time, Contract, Freelance).
