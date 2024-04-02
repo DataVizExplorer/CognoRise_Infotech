@@ -61,6 +61,8 @@ The objective of this project is to Exploratory Data Analysis of employees salar
 - Company_size: The size of the company (Small, Medium, Large).
 
 ### Dashboard Link:
+
+I have developed the following dashborad to investigate the pattern of employees salaries over time and by different job roles.
 https://public.tableau.com/shared/8N4X325XF?:display_count=n&:origin=viz_share_link
 
 <p align = "center" width="100%">
