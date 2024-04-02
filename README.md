@@ -50,7 +50,15 @@ https://public.tableau.com/views/Annual_crime_count/AnnualCrimeCount?:language=e
 The objective of this project is to Exploratory Data Analysis of employees salaries for different job roles. I have used the data set available at https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles. This data set contains information of following feilds:
 - work_year: The year of employment.
 - Experience_level: The experience level of the employee (Experienced, Senior, Mid Level, Entry Level)
-- 
+- Employment_type: The type of employment (Full-time, Part-time, Contract, Freelance).
+- Job_title: The job title or position of the employee within the company.
+- Salary: The salary amount in the local currency.
+- Salary_currency: The currency in which the salary is denoted.
+- Salary_in_usd: The equivalent salary amount in USD (United States Dollars).
+- Employee_residence: The location of the employee's residence.
+- Remote_ratio: The percentage of remote work allowed for the position.
+- Company_location: The location of the company.
+- Company_size: The size of the company (Small, Medium, Large).
 
 ### Dashboard Link:
 https://public.tableau.com/shared/8N4X325XF?:display_count=n&:origin=viz_share_link
