@@ -129,6 +129,11 @@ https://public.tableau.com/views/Trendofaveragesalary/TrendOfAverageSalary?:lang
 </p>
 
 ### Project 3: Customer Churn Analysis- EDA
+This project aims to examines the various factors that could influence customer churn by utilizing the data provided by Tour and travel company.
+
+### Dashboard Link
+
+I have developed the following dashboard to visualize the impact of age, flight cancellations, account synced to social media, income level, being a frequent flyer and number of times services opted for in a year on customer churn.
 
 https://public.tableau.com/views/customer_churn_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
